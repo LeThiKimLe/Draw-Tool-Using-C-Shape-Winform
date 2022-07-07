@@ -23,6 +23,8 @@ namespace ClassObject
         public Pair() 
         {
             myFPen.DashStyle = DashStyle.Dash;
+            //Nice to meet you
+            //Me Le Thi Kim Le
         }
         public void ConvertToRec()
         {
