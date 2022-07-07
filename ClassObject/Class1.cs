@@ -192,6 +192,8 @@ namespace ClassObject
         public override void Ve()
         {
             gp.DrawRectangle(nowPair.myPen, nowPair.myRec);
+            //Hello
+            //World
         }
 
         public override void To_lai()
